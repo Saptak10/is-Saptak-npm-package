@@ -1,0 +1,22 @@
+{
+  "name": "@saptak10/is-saptak",
+  "version": "1.0.0",
+  "description": "Checks if the string is Saptak?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saptak10/is-Saptak-npm-package.git"
+  },
+  "keywords": [
+    "ISS"
+  ],
+  "author": "Saptak Chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saptak10/is-Saptak-npm-package/issues"
+  },
+  "homepage": "https://github.com/Saptak10/is-Saptak-npm-package#readme"
+}

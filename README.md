@@ -1,1 +1,3 @@
-"# is-Saptak-npm-package" 
+# Checks if the string is Saptak?
+
+ First NPM package
